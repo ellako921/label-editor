@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>라벨 인화지 에디터(260627 복사완료)</h1>
+      <h1>라벨 인화지 에디터(260627 복사완료 2차)</h1>
 
       <div className="editor">
         {/* 입력 영역 */}
